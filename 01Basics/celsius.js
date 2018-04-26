@@ -1,11 +1,8 @@
-var score = 100
 
-score = 130 
+let tempInFarenheit = 100
 
-const bonus = 50
+// do calculations
 
-var finalScore = (score + bonus) * 0.8 
+let celsius = ((tempInFarenheit - 32) * 5/9 )
 
-var complex = ((4 + 4) * 5) / 2 
-console.log(finalScore)
-console.log(complex)
+console.log(celsius)
