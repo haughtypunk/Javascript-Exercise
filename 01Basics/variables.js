@@ -6,7 +6,9 @@ let bonus = 20
 let totalScore = score + bonus
 console.log(name)
 console.log(totalScore)
-let firstName = 'Kevin '
+const awesome = 101;
+let firstName = 'Kevin'
 let lastName = 'Singh'
 
-console.log(firstName + lastName)
+console.log(firstName + ' ' + lastName)
+console.log(awesome);
