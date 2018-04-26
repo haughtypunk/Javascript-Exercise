@@ -6,6 +6,6 @@ const bonus = 50
 
 var finalScore = (score + bonus) * 0.8 
 
-var complex = 4 + 4 * 5
+var complex = ((4 + 4) * 5) / 2 
 console.log(finalScore)
 console.log(complex)
